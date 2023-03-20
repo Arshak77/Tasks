@@ -11,8 +11,8 @@ catch (error) {
   }
   return str;
 }
-​
-console.log(reverseString("Armani"));
+
+​console.log(reverseString("Armani"));
 
    
   
